@@ -1,0 +1,26 @@
+[
+    {
+      "company": "Mononovo SAS",
+      "role": "Líder de Proyecto",
+      "period": "Abr 2025 - Presente",
+      "type": "Full time job",
+      "description": "Lidero el desarrollo e implementación de aplicaciones web, enfocándome en arquitectura escalable y calidad de datos. Diseño modelos en MongoDB, desarrollo lógica de negocio en backend e integro servicios externos para validación y procesamiento de información. Trabajo de forma colaborativa con equipos multidisciplinarios para definir soluciones técnicas eficientes.",
+      "skills": ["Node.js", "React", "Backend", "Arquitectura", "Liderazgo", "Fullstack"]
+    },
+    {
+      "company": "Poinnet SAS",
+      "role": "Full Stack Developer",
+      "period": "Jun 2023 - Mar 2025",
+      "type": "Full time job",
+      "description": "Desarrollé aplicaciones web utilizando tecnologías modernas como React, MongoDB y Python. Participé en todo el ciclo de desarrollo, desde la definición de requerimientos hasta la implementación de interfaces interactivas y la gestión eficiente de datos en bases NoSQL.",
+      "skills": ["React", "MongoDB", "Python", "Fullstack", "NoSQL"]
+    },
+    {
+      "company": "Intevo S.A.S",
+      "role": "Full Stack Developer",
+      "period": "Mar 2022 - May 2023",
+      "type": "Full time job",
+      "description": "Desarrollé y mantuve aplicaciones web y de escritorio, implementando soluciones backend en PHP y C# y frontend en Angular y React. Gestioné bases de datos SQL y brindé soporte técnico a sistemas internos empresariales.",
+      "skills": ["Angular", "React", "PHP", "C#", "SQL"]
+    }
+  ]

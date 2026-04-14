@@ -1,0 +1,25 @@
+{
+  "name": "Michael Peña",
+  "photoUrl": "favicon.svg",
+  "intro": "Soy desarrollador de software enfocado en crear productos digitales eficientes, escalables y de alto impacto. Mi filosofía se basa en escribir código limpio y construir soluciones que realmente resuelvan problemas. Me apasiona transformar ideas en experiencias funcionales, siempre buscando optimizar el rendimiento y generar valor real para los usuarios.",
+  "introHtml": "Soy desarrollador de software enfocado en crear productos digitales <span class='text-white font-bold'>eficientes</span>, escalables y de <span class='text-white font-bold'>alto impacto</span>. Mi filosofía se basa en escribir código limpio y construir soluciones que realmente resuelvan problemas. Me apasiona transformar ideas en experiencias funcionales, siempre guiado por una <span class='text-white font-bold'>filosofía</span> de mejora continua y generación de valor.",
+  "webpageTitle": "Michael Pena",
+  "resumeUrl": "/cv-ats-michael-pena.pdf",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/michaelp1709",
+      "icon": "mdi:github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michaelpena17/",
+      "icon": "mdi:linkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:maicolp1709@gmail.com",
+      "icon": "mdi:email"
+    }
+  ]
+}

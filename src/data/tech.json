@@ -1,0 +1,49 @@
+{
+    "categories": [
+      {
+        "title": "Frontend",
+        "skills": [
+          { "name": "React", "level": 3, "icon": "skill-icons:react-dark" },
+          { "name": "Angular", "level": 2, "icon": "skill-icons:angular-dark" },
+          { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
+          { "name": "Astro", "level": 1 , "icon": "skill-icons:astro" },
+          { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
+          { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
+          { "name": "Tailwind CSS", "level": 2, "icon": "skill-icons:tailwindcss-dark" }
+        ]
+      },
+      {
+        "title": "Backend",
+        "skills": [
+          { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" },
+          { "name": "PHP", "level": 3, "icon": "skill-icons:php-dark" },
+          { "name": "Laravel", "level": 2, "icon": "skill-icons:laravel-dark" },
+          { "name": "C#", "level": 2, "icon": "skill-icons:cs" }
+        ]
+      },
+      {
+        "title": "Mobile",
+        "skills": [
+          { "name": "React Native", "level": 2, "icon": "skill-icons:react-dark" }
+        ]
+      },
+      {
+        "title": "Databases",
+        "skills": [
+          { "name": "PostgreSQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
+          { "name": "MySQL", "level": 3, "icon": "skill-icons:mysql-dark" },
+          { "name": "MongoDB", "level": 2, "icon": "skill-icons:mongodb" }
+        ]
+      },
+      {
+        "title": "Tools & Others",
+        "skills": [
+          { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+          { "name": "REST API", "level": 3, "icon": "skill-icons:postman" },
+          { "name": ".NET Core", "level": 2, "icon": "skill-icons:dotnet" },
+          { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+          { "name": "GCP", "level": 1, "icon": "skill-icons:gcp-dark" }
+        ]
+      }
+    ]
+  }

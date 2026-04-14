@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Tu Bongo – Plataforma Digital de Préstamos",
+      "description": "Plataforma 100% digital de préstamos por libranza que permite la gestión completa del proceso crediticio de forma ágil y segura. Desarrollé la solución end-to-end incluyendo aplicación web, API backend, sistema de notificaciones por correo y aplicación móvil. Enfocado en rendimiento, escalabilidad y experiencia de usuario.",
+      "images": ["tubongo-01.png"],
+      "tech": ["React", "React Native", "Node.js", "PostgreSQL", "Tailwind"],
+      "platforms": ["web", "android", "apple-ios"],
+      "link": "https://tubongo.com",
+      "category": "Enterprise Project"
+    },
+    {
+      "title": "Lupaap – CRM Analítico",
+      "description": "CRM analítico diseñado para optimizar la gestión documental y la toma de decisiones basada en datos. Implementa formularios digitales, visualización de estadísticas en tiempo real y herramientas para agilizar procesos documentales. Participé en el desarrollo y mantenimiento del sistema.",
+      "images": ["lupaap-01.png", "lupaap-02.png"],
+      "tech": ["PHP", "JavaScript", "Yii2", "MySQL", "CSS"],
+      "platforms": ["web", "apple-ios", "android"],
+      "link": null,
+      "category": "Enterprise Project"
+    },
+    {
+      "title": "Nodos Shield – Sistema de Recuperación de Equipos",
+      "description": "Sistema enfocado en la recuperación de equipos robados mediante monitoreo y gestión centralizada. Incluye un portal web multi-tenant para administración y una aplicación de escritorio en Windows. Participé en el desarrollo del portal administrativo y la integración con el sistema de escritorio.",
+      "images": ["nodos-01.png", "nodos-02.png", "nodos-03.png"],
+      "tech": ["PHP", "JavaScript", "C#", ".NET Core", "MySQL"],
+      "platforms": ["web", "windows"],
+      "link": null,
+      "category": "Enterprise Project"
+    },
+    {
+      "title": "Campein – Plataforma de Análisis de Datos Sociales",
+      "description": "Plataforma para la recolección y análisis de información a gran escala, orientada a identificar tendencias sociales y de intención mediante formularios digitales. Incluye módulos de captura de datos y análisis con visualización de resultados segmentados por variables como ubicación, edad y comportamiento. Participé en el desarrollo fullstack de funcionalidades clave.",
+      "images": ["campein-01.png"],
+      "tech": ["Angular", "Laravel", "MySQL"],
+      "platforms": ["web", "apple-ios", "android"],
+      "link": "https://campein.com",
+      "category": "Enterprise Project"
+    }
+  ]
